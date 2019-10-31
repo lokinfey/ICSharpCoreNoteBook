@@ -1,6 +1,6 @@
 # ICSharpNoteBook
 
-### This is C# Machine Learning at jupyter notebook , I use TensorFlow.NET / Keras.NET / Numpy.NET/ ML.NET .
+### This is C# Machine Learning at jupyter notebook in my macOS env , I use TensorFlow.NET / Keras.NET / Numpy.NET/ ML.NET .
 
 ### You can go to https://github.com/SciSharp to know more about TensorFlow.NET / Keras.NET / Numpy.NET
 
